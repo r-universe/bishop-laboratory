@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "RLSeq"]
+	path = RLSeq
+	url = https://github.com/bishop-laboratory/rlseq
+	shallow = true
+	registered = true
